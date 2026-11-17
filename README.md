@@ -29,4 +29,4 @@ Thesis Reference
 The workflow implemented by these notebooks is described in Chapter 5 of the associated thesis.
 
 Citation
-If referencing this software, please cite the repository DOI.
+If referencing this software, please cite the repository DOI: 10.5281/zenodo.24325608..
