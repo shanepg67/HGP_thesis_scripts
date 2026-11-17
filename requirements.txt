@@ -1,0 +1,6 @@
+## Python Dependencies
+
+- numpy 1.26.4
+- pandas 2.2.2
+
+The versions listed above were used to conduct the analyses described in the associated thesis
